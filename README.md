@@ -1,3 +1,5 @@
+![Screenshot from 2022-12-02 14-04-05](https://user-images.githubusercontent.com/110123287/205250560-c88be35c-16c3-4eca-8e10-db3425d55a61.png)
+
 # add-icon-react-select-dropdown
 
 How to add an icon in the react-select dropdown
